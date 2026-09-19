@@ -1,7 +1,7 @@
 const guests = [
-  "Sophia Wilson",
-  "Alexander Brown",
-  "Emma Taylor"
+  "shahrukh khan",
+  "Dennie Denials",
+  "Miaa khalifa"
 ];
 
 export default function VipGuests() {
